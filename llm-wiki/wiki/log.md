@@ -100,3 +100,8 @@ This file is append-only. Record ingest, query, and lint activity with parse-fri
 - Errors: 0
 - Warnings: 0
 - Outcome: Lint completed and reported wiki health warnings where relevant.
+## [2026-04-20] lint | structural check
+
+- Errors: 0
+- Warnings: 0
+- Outcome: Lint completed and reported wiki health warnings where relevant.
